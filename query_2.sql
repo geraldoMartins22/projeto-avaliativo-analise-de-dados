@@ -1,5 +1,6 @@
 SELECT
     e.FIRST_NAME,
+    e.salary,
     d.DEPARTMENT_NAME,
     l.STREET_ADDRESS,
     l.STATE_PROVINCE,
